@@ -8,6 +8,6 @@ Prerequisites
 -------------
 *   Folium (pip install folium)
 *   Jinja2 (pip install Jinja2)
-*   [This](http://sourceforge.net/projects/zips/) database of zip code info,
-    that lists city and lat/lon for zip codes, in CSV format.  Saved as the file
+*   [This](http://sourceforge.net/projects/zips/) database of zip code info
+    that lists city and lat/lon for zip codes in CSV format.  Saved as the file
     zips.csv.
